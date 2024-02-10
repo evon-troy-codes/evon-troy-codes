@@ -6,4 +6,4 @@
 📚 I'm experienced in Python, C, Java, JavaScript, Spring Boot, MySQl, HTML & CSS<br/>
 
 <!--GitHub stats -->
-[![Evon's GitHub stats](https://github-readme-stats.vercel.app/api?username=evon-troy-codes)](https://github.com/evon-troy-codes/github-readme-stats)
+![Evon's GitHub stats](https://github-readme-stats.vercel.app/api?username=evon-troy-codes&show_icons=true&theme=transparent)
