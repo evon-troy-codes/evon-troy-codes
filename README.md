@@ -1,4 +1,4 @@
-### Hi I'm Evon 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Evon+👋;)](https://git.io/typing-svg)
 
 🎓 I'm currently studying at Florida International University: B.A. in Computer Science(GPA: 3.6/4.0)<br/>
 🌱 I'm actively learning Advanced Data Structures, and Machine Learning Techniques<br/>
