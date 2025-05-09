@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=40&amp;duration=3500&amp;pause=1000&amp;color=white&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=500&amp;lines=Hi!%F0%9F%91%8B;I'm+Evon+Troy)](https://git.io/typing-svg)
 
-🎓 I'm a recent graduate from Florida International University: B.A. in Computer Science(GPA: 3.6/4.0)<br/>
+🎓 I'm a graduate of Florida International University: B.A. in Computer Science(GPA: 3.6/4.0)<br/>
 
-🌱 Skilled in Java, MySQL, and Spring Boot, I’m passionate about using software engineering to create impactful solutions that improve lives.<br/>
+🌱 Skilled in Java, Python, JavaScript, C++, and Go, I’m passionate about using software engineering to create impactful solutions that improve lives.<br/>
 
 👯 I'm open to collaborative projects in Software Development<br/>
 
